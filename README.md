@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [here](http://scsv.me)
-* 🚀  I'm currently working on [KnowYourSushi](http://knowyoursushi.herokuapp.com)
+* 🚀  I'm currently working on [KnowYourSushi](http://knowyoursushi.pt)
 * 🧠  I'm learning Front and Back-end Frameworks
 
 ### Skills
